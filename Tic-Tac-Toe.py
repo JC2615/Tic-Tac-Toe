@@ -109,6 +109,6 @@ while True:
     elif a != 1 and b != 2 and c != 3 and d != 4 and e != 5 and f != 6 and g != 7 and h != 8 and i != 9:
         printBoard()
         print("It's a tie!")
-        break;
+        break
 
     count += 1
